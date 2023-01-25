@@ -1,5 +1,5 @@
 <h1 align="left">Hi there 👋, I'm Maytikka 🕷️</h1>
-<h3 align="left">passionate about web development, independent to become 🎯</h3>
+<h3 align="left">Passionate about web development, independent to become 🎯</h3>
 
 - 🔭 I’m currently working on **my future as a developer**
 
