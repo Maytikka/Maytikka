@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Thomas and my dev surname is Maytikka 🕷️</h1>
+<h1 align="center">Hi there 👋, I'm Maytikka 🕷️</h1>
 <h3 align="center">passionate about web development, independent to become 🎯</h3>
 
 - 🔭 I’m currently working on **my future as a developer**
